@@ -1,0 +1,33 @@
+C:\Users\Mario\Documents\MetProg\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.deps.json
+C:\Users\Mario\Documents\MetProg\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.runtimeconfig.json
+C:\Users\Mario\Documents\MetProg\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.runtimeconfig.dev.json
+C:\Users\Mario\Documents\MetProg\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.dll
+C:\Users\Mario\Documents\MetProg\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.pdb
+C:\Users\Mario\Documents\MetProg\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\MetProg\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\MetProg\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\MetProg\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.AssemblyInfo.cs
+C:\Users\Mario\Documents\MetProg\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.dll
+C:\Users\Mario\Documents\MetProg\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.pdb
+C:\Users\Daniel Briceño\Desktop\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.csprojAssemblyReference.cache
+C:\Users\Daniel Briceño\Desktop\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Briceño\Desktop\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.AssemblyInfoInputs.cache
+C:\Users\Daniel Briceño\Desktop\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.AssemblyInfo.cs
+C:\Users\Daniel Briceño\Desktop\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.dll
+C:\Users\Daniel Briceño\Desktop\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.pdb
+C:\Users\Daniel Briceño\Desktop\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.deps.json
+C:\Users\Daniel Briceño\Desktop\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.runtimeconfig.json
+C:\Users\Daniel Briceño\Desktop\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.runtimeconfig.dev.json
+C:\Users\Daniel Briceño\Desktop\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.dll
+C:\Users\Daniel Briceño\Desktop\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.pdb
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.deps.json
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.runtimeconfig.json
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.runtimeconfig.dev.json
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.dll
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\bin\Debug\netcoreapp2.2\Tareabd.pdb
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.csprojAssemblyReference.cache
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.AssemblyInfoInputs.cache
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.AssemblyInfo.cs
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.dll
+C:\Users\Daniel Briceño\Desktop\Materias\Metodología\Tareabd\obj\Debug\netcoreapp2.2\Tareabd.pdb
